@@ -1,0 +1,1 @@
+Agora que voce logou, vá estudar PHP!
